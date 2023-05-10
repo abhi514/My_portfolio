@@ -1,0 +1,20 @@
+/*!
+  * Item: Kitzu
+  * Description: Personal Portfolio Template
+  * Author/Developer: Exill
+  * Author/Developer URL: https://themeforest.net/user/exill
+  * Version: v2.0.0
+  * License: Themeforest Standard Licenses: https://themeforest.net/licenses
+  */
+
+  @media (max-width:768px){
+    .home-area{
+      background-position: 90% center !important;
+    }
+  }
+  .navbar .navbar-nav .nav-link a{
+    color: #fff !important;
+  }
+  .navbar .navbar-nav .nav-link a:hover{
+    color: #FF0101 !important;
+  }
