@@ -5,4 +5,4 @@ repository for my personal portfolio website
 
 
 click to visit my portfolio:
-http://abhinavramesh2514.com/
+https://abhi514.github.io/My_portfolio/
